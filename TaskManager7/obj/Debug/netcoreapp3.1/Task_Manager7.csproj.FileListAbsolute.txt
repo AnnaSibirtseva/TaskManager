@@ -1,0 +1,9 @@
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\bin\Debug\netcoreapp3.1\Task_Manager7.deps.json
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\bin\Debug\netcoreapp3.1\Task_Manager7.dll
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\bin\Debug\netcoreapp3.1\Task_Manager7.pdb
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\obj\Debug\netcoreapp3.1\Task_Manager7.csprojAssemblyReference.cache
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\obj\Debug\netcoreapp3.1\Task_Manager7.AssemblyInfoInputs.cache
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\obj\Debug\netcoreapp3.1\Task_Manager7.AssemblyInfo.cs
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\obj\Debug\netcoreapp3.1\Task_Manager7.dll
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\obj\Debug\netcoreapp3.1\Task_Manager7.pdb
+C:\Users\anias\source\repos\TaskManager7\TaskManager7\obj\Debug\netcoreapp3.1\Task_Manager7.csproj.CoreCompileInputs.cache

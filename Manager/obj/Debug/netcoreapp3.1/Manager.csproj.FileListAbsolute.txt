@@ -1,0 +1,17 @@
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Manager.exe
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Manager.deps.json
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.json
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Manager.runtimeconfig.dev.json
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Manager.dll
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Task_Manager7.dll
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Task_Manager7.pdb
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.csprojAssemblyReference.cache
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfoInputs.cache
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.AssemblyInfo.cs
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CopyComplete
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.dll
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.pdb
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.genruntimeconfig.cache
+C:\Users\anias\source\repos\TaskManager7\Manager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anias\source\repos\TaskManager7\Manager\obj\Debug\netcoreapp3.1\Manager.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4cz68M93Ul0rvISDJerHsduy44ifh0kcZP8dzuxhv0ocPm76OR4wQDPQ/qTmVGb7l/bvRdjj1DIn3DWajI5vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anias\\source\\repos\\TaskManager7\\Manager\\Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anias\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
